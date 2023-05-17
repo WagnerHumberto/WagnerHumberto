@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando testes de software 
 - 📚 Estou aprendendo algumas ferramentas para automação desses testes 
 
-![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerHumberto&show_icons=true&theme=merko)
+![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerHumberto&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
